@@ -1,2 +1,2 @@
 # paint-js
- 그림판
+ Building painting board made with vanila JS
